@@ -9,5 +9,5 @@ Atividade solicitada na disciplina de Estrutura de Dados I e realizada utilizand
 Para este trabalho foi utilizada a linguagem Java para criar uma estrutura em pilha.
 
 
- <img align="center" alt="Rafa-J" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-<img align="center"  alt="Leticia-J"  height="30" width="40" src= "file:///C:/Users/11716636680/Downloads/imagem_pilha.webp">
+ <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+<img align="center"  alt="Leticia-J"  height="30" width="40" src="file:///C:/Users/11716636680/Downloads/imagem_pilha.webp">

@@ -10,4 +10,4 @@ Para este trabalho foi utilizada a linguagem Java para criar uma estrutura em pi
 
 
  <img align="center" alt="Rafa-J" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-<file:///C:/Users/11716636680/Downloads/imagem_pilha.webp>
+<img align="center"  alt="Leticia-J"  height="30" width="40" src= "file:///C:/Users/11716636680/Downloads/imagem_pilha.webp">
